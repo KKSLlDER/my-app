@@ -1,0 +1,44 @@
+.font-sofachrome-italic {
+    margin: auto;  
+    padding: 20px;
+}
+
+.LogoRectangle { 
+    width: 350px; 
+    height: 75px;
+    background-color: white; 
+    border:1.5px solid #b6b6b665; 
+    z-index: -1;
+    top: auto;
+ } 
+
+ .HeaderRectangle {
+    width: 1877px; 
+   height: 76px; 
+   border:1.5px solid #b6b6b665; 
+   z-index: -1;
+ }
+
+ .HeaderRectangle2 {
+    width: 1877px; 
+   height: 38px; 
+   border:1.5px solid #b6b6b665; 
+   z-index: -1;
+ }
+
+ .header {
+    overflow-x: hidden;
+    overflow-y: hidden;
+ }
+
+ .search {
+    max-height: 100px;
+  }
+
+  mat-form-field {
+   position: relative;
+   left: 354px;
+   height: 58px;
+   width:500px;
+  }
+
